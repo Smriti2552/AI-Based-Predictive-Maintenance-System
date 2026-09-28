@@ -71,8 +71,23 @@ Python, Scikit-learn, XGBoost, SMOTE (class imbalance handling), StandardScaler,
 
 ## Screenshots
 
-<!-- Add dashboard screenshots here after uploading them to the repo, for example: -->
-<!-- ![Dashboard](screenshots/dashboard.png) -->
+### Dashboard Overview
+![Dashboard overview](screenshots/01-dashboard-overview.png)
+![Current alerts](screenshots/02-current-alerts.png)
+
+### Machine Nodes
+![Healthy nodes](screenshots/03-nodes-healthy.png)
+![Nodes with warnings](screenshots/04-nodes-warning.png)
+
+### Maintenance Alerts
+![Maintenance alerts](screenshots/05-maintenance-alerts.png)
+
+### System Analytics
+![Risk score history](screenshots/06-analytics-risk-history.png)
+
+### Prediction History
+![Prediction history](screenshots/07-prediction-history.png)
+![Prediction records](screenshots/08-prediction-records.png)
 
 ## Note on Data
 
